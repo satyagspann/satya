@@ -13,7 +13,7 @@ public class CTest {
 
 	@Test
 	public void t2(){
-		System.out.println("Hi  test am test 2");
+		System.out.println("Hi number test am test 2");
 		Assert.assertTrue(false,"");
 	}
 	
