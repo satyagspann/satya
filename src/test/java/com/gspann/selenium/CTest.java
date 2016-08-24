@@ -7,13 +7,13 @@ public class CTest {
 
 	@Test
 	public void t1(){
-		System.out.println("Hi selenium am test 1");
+		System.out.println("Hi  am test 1");
 		Assert.assertTrue(true,"");
 	}
 
 	@Test
 	public void t2(){
-		System.out.println("Hi number test am test 2");
+		System.out.println("Hi test am test 2");
 		Assert.assertTrue(false,"");
 	}
 	
