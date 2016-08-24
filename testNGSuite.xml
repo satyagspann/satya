@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mavenSuite">
+<test name="mavenTest">
+<classes>
+<class name="com.gspann.selenium.CTest"></class>
+</classes>
+</test>
+</suite>
